@@ -1,0 +1,1 @@
+GEN_CSRCS += _test_img_alpha_100x100.c

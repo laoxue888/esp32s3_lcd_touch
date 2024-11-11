@@ -1,0 +1,16 @@
+{
+    "idf.adapterTargetName": "esp32s3",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.flashType": "UART",
+    "files.associations": {
+        "esp_lcd_touch_cst816s.h": "c",
+        "esp_lcd_ili9341.h": "c",
+        "esp_lvgl_port.h": "c",
+        "lvgl.h": "c",
+        "stdlib.h": "c",
+        "gui_guider.h": "c"
+    },
+    "idf.portWin": "COM3"
+}
